@@ -1,0 +1,9 @@
+{
+    "microservices": {
+    "remote": {
+        "url": "http://localhost:3002/remote.js",
+        "scope": "remote",
+        "module": "./RemoteApp"
+    }
+}
+}
